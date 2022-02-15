@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.22_14_14_01.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>271</ymin>
+			<xmax>1477</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
